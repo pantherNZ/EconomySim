@@ -1,0 +1,3 @@
+[submodule "EconomySim/Assets/Utility"]
+	path = EconomySim/Assets/Utility
+	url = https://github.com/pantherNZ/UnityScriptUtility.git
